@@ -7,6 +7,6 @@
 <title>Tayfun Econ Dersleri</title>
 </head>
 <body>
-asssssdds
+From index.jsp file "WEB-INF/jsp"
 </body>
 </html>

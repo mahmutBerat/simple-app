@@ -6,19 +6,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
-		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
@@ -38,65 +28,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-aop-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-aop-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-aop-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-aspects-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-aspects-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-aspects-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-beans-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-beans-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-beans-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-context-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-context-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-context-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-context-support-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-context-support-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-context-support-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-core-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-core-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-core-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-expression-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-expression-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-expression-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-instrument-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-instrument-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-instrument-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-instrument-tomcat-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-instrument-tomcat-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-instrument-tomcat-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-jdbc-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-jdbc-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-jdbc-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-jms-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-jms-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-jms-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-messaging-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-messaging-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-messaging-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-orm-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-orm-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-orm-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-oxm-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-oxm-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-oxm-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-test-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-test-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-test-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-tx-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-tx-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-tx-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-web-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-web-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-web-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-portlet-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-portlet-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-portlet-4.2.4.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-websocket-4.2.4.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-websocket-4.2.4.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/berat_imdat/Desktop/spring-framework-4.2.4.RELEASE/libs/spring-websocket-4.2.4.RELEASE-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
