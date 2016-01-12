@@ -19,4 +19,10 @@
     <put-attribute name="current" value="index"></put-attribute>
   </definition>
   
+  <definition name="user-detail" extends="common">
+    <put-attribute name="title" value="User Detail Page" />
+    <put-attribute name="body" value="/WEB-INF/jsp/user-detail.jsp" />
+    <put-attribute name="current" value="users"></put-attribute>
+  </definition>
+  
 </tiles-definitions>
